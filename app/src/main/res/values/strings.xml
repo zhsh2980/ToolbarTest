@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ToolbarTest</string>
+    <string name="menu1">menu1</string>
+    <string name="menu2">menu2</string>
+</resources>
