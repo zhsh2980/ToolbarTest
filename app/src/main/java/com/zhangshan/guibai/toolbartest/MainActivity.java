@@ -12,6 +12,7 @@ public class MainActivity extends BaseActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        //代码改动测试
         View customLayoutInToolbar = View.inflate(this, R.layout.custom_layout_in_toolbar, null);
         getToolbar().setDisplayHomeAsUpEnabled(false)
                 //***************   如何让 title 居中 ??  ***********
